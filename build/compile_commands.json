@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/include -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/PA1.dir/src/image.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/image.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/image.cpp",
+  "output": "CMakeFiles/PA1.dir/src/image.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/include -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/PA1.dir/src/main.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/main.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/main.cpp",
+  "output": "CMakeFiles/PA1.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/include -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/PA1.dir/src/mesh.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/mesh.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/mesh.cpp",
+  "output": "CMakeFiles/PA1.dir/src/mesh.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/include -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/PA1.dir/src/scene_parser.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/scene_parser.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/scene_parser.cpp",
+  "output": "CMakeFiles/PA1.dir/src/scene_parser.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/include -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/PA1.dir/src/texture.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/texture.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/src/texture.cpp",
+  "output": "CMakeFiles/PA1.dir/src/texture.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Matrix2f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Matrix2f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Matrix2f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Matrix2f.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Matrix3f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Matrix3f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Matrix3f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Matrix3f.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Matrix4f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Matrix4f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Matrix4f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Matrix4f.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Quat4f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Quat4f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Quat4f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Quat4f.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Vector2f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Vector2f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Vector2f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Vector2f.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Vector3f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Vector3f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Vector3f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Vector3f.cpp.o"
+},
+{
+  "directory": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/build",
+  "command": "/usr/bin/clang++ -I/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o deps/vecmath/CMakeFiles/vecmath.dir/src/Vector4f.cpp.o -c /Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Vector4f.cpp",
+  "file": "/Users/jonhannliu/Downloads/刘蕴皓-2021012884-PROJECT/code/deps/vecmath/src/Vector4f.cpp",
+  "output": "deps/vecmath/CMakeFiles/vecmath.dir/src/Vector4f.cpp.o"
+}
+]
